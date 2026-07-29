@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.uv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Models & weights
+*.pt
+*.onnx
+*.engine
+weights/
+
+# Media & PoC output — never commit footage or personal data
+*.mp4
+*.mkv
+*.avi
+*.jpg
+*.jpeg
+*.png
+!docs/**/*.png
+poc/fixtures/clips/
+poc/runs/
+runs/
+crops/
+recordings/
+
+# Data
+*.db
+*.sqlite3
+data/
+minio-data/
+postgres-data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
