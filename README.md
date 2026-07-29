@@ -39,6 +39,7 @@ Boats that cannot be identified from camera are **not** left as unknowns — the
 | Document | Purpose |
 |---|---|
 | [`docs/CAMERA-SITING.md`](docs/CAMERA-SITING.md) | Camera placement, optics arithmetic, commissioning checklist |
+| [`docs/TEST-DATA.md`](docs/TEST-DATA.md) | Where to get footage, and what each kind can and cannot prove |
 | [`docs/OPERATIONS.md`](docs/OPERATIONS.md) | Dev setup, deployment, monitoring, runbook, backup/restore |
 | [`docs/COMPLIANCE-KVKK.md`](docs/COMPLIANCE-KVKK.md) | Data protection requirements and controls |
 | [`docs/GLOSSARY.md`](docs/GLOSSARY.md) | Marine, technical, and system terms (EN/TR) |
