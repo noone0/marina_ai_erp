@@ -23,6 +23,7 @@ Boats that cannot be identified from camera are **not** left as unknowns — the
 |---|---|
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | What the system is and why it's built this way |
 | [`docs/TECHNICAL.md`](docs/TECHNICAL.md) | Module layout, data contracts, algorithms, thresholds |
+| [`docs/TECH-STACK.md`](docs/TECH-STACK.md) | Technology decision records — what was chosen, what was rejected, and why |
 | [`docs/POC.md`](docs/POC.md) | The go/no-go experiment: can we read boat names from video? |
 | [`docs/phases/`](docs/phases/) | Phase-by-phase execution plan |
 
